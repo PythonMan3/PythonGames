@@ -1,0 +1,12 @@
+MOVE,0,11,field,13,93,1
+MOVE,0,12,field,13,93,1
+MOVE,0,13,field,13,93,1
+MOVE,19,0,field,15,92,3
+# CHARA, name, filename, dir_, pos_x, pos_y, move_type
+CHARA,inn_clerk,pipo-charachip002b.png,2,4,16,0,ここは　やどやです
+CHARA,weapon_shop_clerk,pipo-charachip003a.png,0,26,17,0,ここは　ぶきやです
+CHARA,tool_shop_clerk,pipo-charachip001a.png,1,22,10,0,ここは　どうぐやです
+CHARA,priest,pipo-charachip028.png,0,24,1,0,わたしは　しさいです
+CHARA,cat,pipo-charachip010.png,1,12,3,1,ニャーニャー
+# DOOR, pos_x, pos_y
+DOOR, 8, 20
