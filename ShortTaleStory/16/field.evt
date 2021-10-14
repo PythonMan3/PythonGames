@@ -1,0 +1,6 @@
+MOVE,6,91,start_castle,9,28,3
+MOVE,7,91,start_castle,10,28,3
+MOVE,6,92,start_castle,9,28,3
+MOVE,7,92,start_castle,10,28,3
+MOVE,14,93,small_town,1,12,2
+MOVE,15,93,small_town,1,12,2
